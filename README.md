@@ -10,7 +10,7 @@
 
 As an Application Developer, I focus on crafting functional and intuitive digital experiences\. My journey involves both frontend development, where I enjoy bringing interfaces to life, and exploring the analytical power of Python for backend systems and data\-intensive tasks\. I am particularly drawn to machine learning and deep learning, constantly seeking new ways to integrate intelligent solutions into applications\. My goal is to build robust software that is both technically sound and user\-friendly, pushing my understanding of modern development paradigms\.
 
-**Focus:** Application Developer
+**Focus:** Full Stack Developer
 
 **Technologies:** TypeScript · Python · Jupyter Notebook · HTML · CSS · JavaScript · React · Node\.js · Express\.js · SQL · Git · VS Code · Flask · Pandas · NumPy · scikit\-learn · Matplotlib · Seaborn · Machine Learning Concepts · Data Analysis · Web Development · Frontend Development · Backend Development · Machine Learning · Deep Learning · Algorithms · Application Development · Problem Solving
 
