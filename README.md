@@ -8,7 +8,7 @@
 
 ### Building engaging applications and exploring AI solutions\.
 
-As an Application Developer, I focus on crafting functional and intuitive digital experiences\. My journey involves both frontend development, where I enjoy bringing interfaces to life, and exploring the analytical power of Python for backend systems and data\-intensive tasks\. I am particularly drawn to machine learning and deep learning, constantly seeking new ways to integrate intelligent solutions into applications\. My goal is to build robust software that is both technically sound and user\-friendly, pushing my understanding of modern development paradigms\.
+As an Full Stack Developer, I focus on crafting functional and intuitive digital experiences\. My journey involves both frontend development, where I enjoy bringing interfaces to life, and exploring the analytical power of Python for backend systems and data\-intensive tasks\. I am particularly drawn to machine learning and deep learning, constantly seeking new ways to integrate intelligent solutions into applications\. My goal is to build robust software that is both technically sound and user\-friendly, pushing my understanding of modern development paradigms\.
 
 **Focus:** Full Stack Developer
 
@@ -21,7 +21,7 @@ As an Application Developer, I focus on crafting functional and intuitive digita
 ```ts
 const developer = {
   name: "Chay039",
-  role: "Application Developer",
+  role: "Full Stack Developer",
   focus: ["Full-stack application development","Machine Learning model implementation","Scalable software architecture","User experience driven design"],
   toolkit: ["TypeScript","Python","Jupyter Notebook","HTML","CSS","JavaScript","React","Node.js","Express.js","SQL","Git","VS Code","Flask","Pandas","NumPy","scikit-learn","Matplotlib","Seaborn","Machine Learning Concepts","Data Analysis","Web Development","Frontend Development","Backend Development","Machine Learning","Deep Learning","Algorithms","Application Development","Problem Solving"],
   exploring: "Exploring advanced concepts in neural network architectures and optimizing web application performance.",
