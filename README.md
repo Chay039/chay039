@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,100:7C3AED&amp;height=200&amp;section=header&amp;text=Chay039&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Application%20Developer&amp;descAlignY=58&amp;descSize=22" alt="Chay039 profile banner" width="100%" height="200" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312E81,100:7C3AED&amp;height=200&amp;section=header&amp;text=Chay039&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer&amp;descAlignY=58&amp;descSize=22" alt="Chay039 profile banner" width="100%" height="200" />
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&amp;weight=600&amp;size=24&amp;duration=2800&amp;pause=900&amp;color=EC4899&amp;center=true&amp;vCenter=true&amp;multiline=false&amp;width=600&amp;height=50&amp;lines=Crafting%20clean%2C%20efficient%20code...;Exploring%20new%20technologies...;Debugging%20with%20determination...;Innovating%20one%20commit%20at%20a%20time..." alt="Animated profile introduction" width="600" height="50" />
