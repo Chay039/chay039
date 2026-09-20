@@ -93,6 +93,11 @@ const developer = {
 
 <table><tr><td width="50%" valign="top"><h3><a href="https://github.com/Chay039/portfolio">portfolio</a></h3><p>This repository explores the development of a personal portfolio site, leveraging TypeScript for type-safe and scalable frontend architecture.</p><sub>TypeScript · 0 ★</sub></td><td width="50%" valign="top"><h3><a href="https://github.com/Chay039/Midnightwish">Midnightwish</a></h3><p>This project investigates various Python programming patterns, potentially for scripting or backend logic, without a specific external description.</p><sub>Python · 0 ★</sub></td></tr><tr><td width="50%" valign="top"><h3><a href="https://github.com/Chay039/DeepLearningProject2">DeepLearningProject2</a></h3><p>This repository delves into a deep learning initiative, utilizing Jupyter Notebook to experiment with and document machine learning models and data processing.</p><sub>Jupyter Notebook · 0 ★</sub></td><td width="50%" valign="top"><h3><a href="https://github.com/Chay039/PBDM">PBDM</a></h3><p>This project, written in Python, appears to explore programming paradigms for data management or algorithmic problem-solving.</p><sub>Python · 0 ★</sub></td></tr></table>
 
+## Contribution landscape
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution calendar" width="100%" />
+
+
 <div align="center">
 <br/>
 <strong>Open to connecting on innovative projects\. Let's build something impactful together\!</strong>
